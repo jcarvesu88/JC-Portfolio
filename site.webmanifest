@@ -1,0 +1,10 @@
+{
+  "name": "Joey Christian Arvesu — Portfolio",
+  "short_name": "JC Arvesu",
+  "description": "Microsoft 365 and Cloud Support Specialist portfolio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [{"src":"assets/favicon.svg","sizes":"any","type":"image/svg+xml"}]
+}
